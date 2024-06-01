@@ -1,41 +1,42 @@
-<!-- <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Muhammad+Naja+-+Software+Engineer;%2B5+Years+of+coding+Experience+;Always+learning+new+things" alt="Typing SVG" /></a>
-  
+Absolutely! Here's a refined and enhanced version of your overview, incorporating the additional skills and icons for a visually appealing presentation:
 
-</p> -->
+---
 
-<!-- Social icons section -->
-<!-- <p align="center">
-  <a href="https://www.youtube.com/@codeawy"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/lJdUxn6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/3YU1CER.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.codeawy.com/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/JU4wMxu.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+## Enhance Your Online Presence with Exceptional Web Development
 
-<br/> -->
+Are you facing challenges with your website's performance, user engagement, or search engine visibility? Do you need a modern, attractive, and responsive design that captivates your audience and stands out in a crowded digital landscape? I am here to solve these problems for you. As an experienced front-end developer, I specialize in transforming your website into a high-performing, visually stunning, and SEO-friendly platform. 
 
-# 👩‍💻 Mohamed Reda
+With a robust skill set in **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **Redux**, and **Next.js**, I ensure your site not only looks great but also functions flawlessly across all devices and browsers. Let's work together to enhance your online presence, drive more traffic, and convert visitors into loyal customers.
 
-Hello! I'm Mohamed, a passionate Frontend Developer with experience in building responsive and dynamic web applications. I specialize in HTML, CSS, JavaScript, and modern frontend frameworks and libraries. My goal is to create intuitive and seamless user experiences.
+### My Technical Skill Set Includes:
 
+#### Frontend Development:
+- **HTML** <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20" height="20">
+- **CSS** <img src="https://img.icons8.com/color/48/000000/css3.png" width="20" height="20">
+- **JavaScript** <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20">
+- **TypeScript** <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20" height="20">
+- **React** <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20" height="20">
+- **Next.js** <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" width="20" height="20">
+- **Redux** <img src="https://img.icons8.com/color/48/000000/redux.png" width="20" height="20">
+- **Tailwind CSS** <img src="https://img.icons8.com/fluency/48/000000/tailwind-css.png" width="20" height="20">
 
-# 🤹‍♀️ Skills
+#### Backend Development:
+- **Node.js** <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="20" height="20">
+- **Express.js** <img src="https://img.icons8.com/color/48/000000/express.png" width="20" height="20">
+- **WordPress** <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="20" height="20">
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" />
-<!--   <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="icon" width="86" height="86" /> -->
-<!--   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" /> -->
-<!--   <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="86" height="86" /> -->
-<!--   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" /> -->
-  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
-<!--   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="86" height="86" /> -->
-<!--   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86" /> -->
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" />
-</div>
+#### Databases:
+- **MongoDB** <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20" height="20">
+- **Mongoose** <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-mongoose-js-is-a-mongodb-object-modeling-tool-designed-to-work-in-an-asynchronous-environment-logo-filled-tal-revivo.png" width="20" height="20">
+- **NoSQL Databases**
+- **PostgreSQL** <img src="https://img.icons8.com/color/48/000000/postgresql.png" width="20" height="20">
+- **MySQL** <img src="https://img.icons8.com/color/48/000000/mysql.png" width="20" height="20">
+- **Firebase** <img src="https://img.icons8.com/color/48/000000/firebase.png" width="20" height="20">
+
+### Conclusion
+
+With a comprehensive skill set and a passion for web development, I am well-equipped to tackle any front-end challenge. My goal is to deliver high-quality, user-centric solutions that not only meet but surpass client expectations. Let's work together to create something extraordinary!
+
+---
+
+This version emphasizes your skills with corresponding icons to make it more visually engaging and easier to read.
